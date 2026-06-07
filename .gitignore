@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+
+qdrant_data/
+qdrant_storage/
+
+.venv/
+venv/
+
+evaluation_report.csv
