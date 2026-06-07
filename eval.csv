@@ -1,0 +1,21 @@
+id,query,expected_source
+1,What is the capital of South Korea?,south_korea_chunk_001
+2,What is the population of South Korea?,south_korea_chunk_001
+3,What currency is used in South Korea?,south_korea_chunk_001
+4,What is the official language of South Korea?,south_korea_chunk_001
+5,What type of government does South Korea have?,south_korea_chunk_001
+6,What is the largest city in South Korea?,south_korea_chunk_002
+7,What companies are based in South Korea?,south_korea_chunk_003
+8,What industries are important in South Korea?,south_korea_chunk_003
+9,What universities are located in South Korea?,south_korea_chunk_004
+10,What is KAIST?,south_korea_chunk_004
+11,What is K-pop?,south_korea_chunk_005
+12,What Korean dishes are mentioned?,south_korea_chunk_005
+13,What transportation systems exist in South Korea?,south_korea_chunk_006
+14,What is KTX?,south_korea_chunk_006
+15,What is the climate like in winter?,south_korea_chunk_006
+16,What tourist attractions are mentioned?,south_korea_chunk_007
+17,Why is South Korea technologically advanced?,south_korea_chunk_008
+18,What is South Korea known for in technology?,south_korea_chunk_008
+19,What is the capital of France?,NO_ANSWER
+20,Who invented Python?,NO_ANSWER

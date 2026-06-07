@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "knowledge_base": {
+      "transport": "stdio",
+      "command": "python",
+      "args": ["-m", "mcp_server_qdrant"],
+      "env": {
+        "QDRANT_URL": "qdrant_data",
+        "COLLECTION_NAME": "rag_mcp_hw",
+        "EMBEDDING_MODEL": "BAAI/bge-small-en-v1.5"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+qdrant-client
+fastembed
+langchain
+langchain-community
+langchain-core
+langchain-mcp-adapters
+langgraph
+pandas
+python-dotenv
+langchain-gigachat
+gigachat
+
+
+
+#pip install -r requirements.txt
+#pip install mcp-server-qdrant
